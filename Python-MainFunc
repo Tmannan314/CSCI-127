@@ -1,0 +1,10 @@
+#Name:  Tangirun Mannan
+#Email: Tangirun.Mannan19@myhunter.cuny.edu
+#Date:  April 6, 2020
+#This program prints hello world using main function
+
+def main():
+    print ("Hello, World!")
+
+#if _name_ == "_main_":
+main()
